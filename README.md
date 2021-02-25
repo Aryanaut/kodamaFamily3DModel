@@ -4,3 +4,6 @@ Kodamas are small chittering creatures from Studio Ghibli's 1997 film 'Princess 
 ![alt text](https://static-2.gumroad.com/res/gumroad/9771155905631/asset_previews/99792a116a180a52c7ba186dd10d9c71/retina/WhatsApp_20Image_202021-02-24_20at_205.17.19_20PM.jpeg)
 
 ![alt text](https://static-2.gumroad.com/res/gumroad/9771155905631/asset_previews/3c1364e52988a520f488e04d5dda448a/retina/kodama-Sphere_002.png)
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc-sa/4.0/.
